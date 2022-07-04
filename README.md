@@ -19,7 +19,7 @@ VPS操作系统选择：Debian 10 x64
 
     bash <(curl -sL https://cdn.jsdelivr.net/gh/Misaka-blog/Xray-script@master/xray.sh)
 
-
+若以上脚本链接不可用，请将链接替换为本仓库中脚本链接。
 
 ## 放行端口
 ### Debian/Ubuntu  放行端口
